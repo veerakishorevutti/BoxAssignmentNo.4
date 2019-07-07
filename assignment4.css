@@ -1,10 +1,10 @@
- .container {
-    width: 75vw;
-    height: 87vw;
+.container {
+    width: 83vw;
+    height: 88vw;
     border: 1px solid blue;
     position: absolute;
-    left: 15vw;
-}    
+    left: 6vw;
+}   
 
 	.block {
 		    width: 14vw;
