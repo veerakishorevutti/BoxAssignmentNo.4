@@ -1,0 +1,100 @@
+ .container {
+    width: 75vw;
+    height: 87vw;
+    border: 1px solid blue;
+    position: absolute;
+    left: 15vw;
+}    
+
+	.block {
+		    width: 14vw;
+		    height: 11vw;
+		    border-radius: 10px;
+		    border: 1px solid;
+		    margin: 1vw;
+}
+	.block1{
+		background-image: linear-gradient(#c0c0c0,yellow);
+		position: absolute;
+	}
+	.block2 {
+	    background-image: linear-gradient(#c0c0c0,red);
+	    position: absolute;
+	    left: 5vw;
+	    top: 4vw;
+	    z-index: 2;
+}
+	.block3{
+		background-image: linear-gradient(#c0c0c0,green);
+		position: absolute;
+		right: 0vw;
+	}
+	.block4 {
+	    background-image: linear-gradient(#c0c0c0,blue);
+	    position: absolute;
+	    right: 4vw;
+	    top: 4vw;
+}
+	.block5 {
+	    background-image: linear-gradient(#c0c0c0,pink);
+	    position: absolute;
+	    top: 38vw;
+}
+	.block6 {
+	    background-image: linear-gradient(#c0c0c0,orange);
+	    position: absolute;
+	    top: 38vw;
+	    right: 0vw;
+}	.block7 {
+	    background-image: linear-gradient(#c0c0c0,purple);
+	    position: absolute;
+	    top: 31vw;
+	    left: 19vw;
+}
+	.block8 {
+	    background-image: linear-gradient(#c0c0c0,grey);
+	    position: absolute;
+	    top: 31vw;
+	    left: 39vw;
+}
+	.block9 {
+	    background-image: linear-gradient(#c0c0c0,gold);
+	    position: absolute;
+	    top: 45vw;
+	    left: 19vw;
+}
+	.block10 {
+	    background-image: linear-gradient(#c0c0c0,silver);
+	    position: absolute;
+	    top: 45vw;
+	    left: 39vw;
+}
+	.block11 {
+	    background-image: linear-gradient(#c0c0c0,green);
+	    position: absolute;
+	    top: 38vw;
+	    left: 30vw;
+}
+	.block12 {
+	    background-image: linear-gradient(#c0c0c0,lightblue);
+	    position: absolute;
+	    top: 68vw;
+	    left: 5vw;
+}
+	.block13 {
+	    background-image: linear-gradient(#c0c0c0,brown);
+	    position: absolute;
+	    top: 72vw;
+}
+	.block14 {
+	    background-image: linear-gradient(#c0c0c0,#abcdef);
+	    position: absolute;
+	    right: 0vw;
+	    top: 68vw;
+}
+	.block15 {
+    background-image: linear-gradient(#c0c0c0,#fedcba);
+    position: absolute;
+    right: 4vw;
+    top: 72vw;
+}
